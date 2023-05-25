@@ -4,7 +4,7 @@ Walmart Sales Analysis and Forecasting
 
 </div>
 
-# <div align="center">Walmart store sales prediction</div>
+# <div align="center">Walmart store sales Analysis and Forecasting</div>
 <div align="center">
 
 <img src  ="https://github.com/Pradnya1208/Walmart-store-sales-prediction/blob/main/output/intro.png?raw=true" width="100%">
@@ -69,3 +69,5 @@ If, for a certain Week, there are more pre-holiday days in one Year than another
 Another thing to take into account is that Holiday Weeks but with few or no pre-holiday days might have lower Sales than the Week before.
 
 We can use SQL, putting the week days for each Holiday in every year. Doing some research, the Super Bowl, Labor Day and Thanksgiving fall on the same day. In the other hand, Christmas is always on December 25th, so the week day can change.
+
+![holidays](https://github.com/Pradnya1208/Walmart-store-sales-prediction/blob/main/output/holidays.PNG?raw=true)
